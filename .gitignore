@@ -14,8 +14,7 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # Intellij
-.idea/
-
+.idea
 
 # Output
 out
